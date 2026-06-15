@@ -1,5 +1,5 @@
-## Welcome to crimsonshiii's GitHub Repository 👋
-# Hi, I'm Jao Nicholas Benedicto
+<h1 align="center">Hi, I'm Jao Nicholas Benedicto 👋</h1>
+<h2 align="center">Front End Developer, UI/UX Designer, Graphic Designer, Horror Game Streamer</h2>
 Test
 
 <!--
